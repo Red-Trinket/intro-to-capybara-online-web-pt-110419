@@ -2,4 +2,4 @@
 require 'sinatra'
 require_relative './app'
 
-rub Application
+run Application
